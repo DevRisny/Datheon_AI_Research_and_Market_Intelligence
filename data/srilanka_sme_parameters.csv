@@ -1,0 +1,9 @@
+parameter,low,mode,high,unit,kind,rationale,source
+small_firms,71126,71126,71126,firms,sourced,Small enterprises counted in the 2013/14 Economic Census listing,https://island.lk/unlocking-the-potential-of-msmes-vital-for-post-covid-19-recovery/
+medium_firms,10405,10405,10405,firms,sourced,Medium enterprises counted in the 2013/14 Economic Census listing,https://island.lk/unlocking-the-potential-of-msmes-vital-for-post-covid-19-recovery/
+firm_growth_factor,1.00,1.10,1.25,multiplier,assumption,"Census is dated; total MSMEs grew from ~1.02m (2010) to ~1.1m (2024), about +8%",https://www.themorning.lk/articles/mzG2fW0S2z3pMqurApAT
+small_avg_users,11,20,50,users,assumption,Sri Lankan small enterprise band is roughly 11-50 employees; mode skewed to the lower end,National SME Policy Framework definitions
+medium_avg_users,51,90,200,users,assumption,Medium band roughly 51-200 employees,National SME Policy Framework definitions
+need_share,0.15,0.25,0.40,share,assumption,"Share of S+M firms with cloud apps, remote staff or multiple sites that SASE serves",Analyst assumption; tested in sensitivity
+price_user_year,60,84,150,USD,benchmark,"Mode = Cloudflare $7/user/month; low = Netskope median low; high = Zscaler mid-market combined",data/competitors.csv
+som_share_y5,0.02,0.05,0.10,share,assumption,Share of SAM one managed-SASE provider could win by year 5,Analyst assumption; tested in sensitivity

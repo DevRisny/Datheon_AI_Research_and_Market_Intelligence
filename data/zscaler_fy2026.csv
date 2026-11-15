@@ -1,0 +1,32 @@
+metric,fy2026_usd_m,fy2025_usd_m,section,source
+Revenue,3352.523,2673.115,Item 8 income statement,10-K FY2026
+Cost of revenue,777.629,618.178,Item 8 income statement,10-K FY2026
+Gross profit,2574.894,2054.937,Item 8 income statement,10-K FY2026
+Research and development,903.4,672.5,Item 7 MD&A,10-K FY2026
+Sales and marketing,1495.812,1259.158,Item 8 income statement,10-K FY2026
+General and administrative,308.950,251.754,Item 8 income statement,10-K FY2026
+Total operating expenses,2708.161,2183.397,Item 8 income statement,10-K FY2026
+Loss from operations,-133.267,-128.460,Item 8 income statement,10-K FY2026
+Interest income,136.132,125.364,Item 8 income statement,10-K FY2026
+Net loss,-63.2,-41.5,Item 8 income statement,10-K FY2026
+Stock-based compensation,830.392,683.568,Item 8 equity statement,10-K FY2026
+Operating cash flow,1129.654,972.453,Item 8 cash flow,10-K FY2026
+Purchases of property and equipment,277.304,164.252,Item 8 cash flow,10-K FY2026
+Capitalized internal-use software,73.207,81.508,Item 8 cash flow,10-K FY2026
+Free cash flow,779.143,726.693,Item 7 non-GAAP,10-K FY2026
+Acquisitions net of cash,918.074,0.834,Item 8 cash flow,10-K FY2026
+Cash and cash equivalents,928.354,2389.023,Item 8 balance sheet,10-K FY2026
+Short-term investments,2545.797,1183.386,Item 8 balance sheet,10-K FY2026
+Total assets,7866.714,6419.888,Item 8 balance sheet,10-K FY2026
+Total liabilities,5268.453,4620.615,Item 8 balance sheet,10-K FY2026
+Convertible senior notes net,1696.355,1700.727,Item 8 balance sheet,10-K FY2026
+Convertible notes principal due 2028,1725.0,1725.0,Note 10,10-K FY2026
+Deferred revenue current,2480.501,2054.417,Item 8 balance sheet,10-K FY2026
+Deferred revenue noncurrent,445.272,413.609,Item 8 balance sheet,10-K FY2026
+Goodwill,1218.098,417.730,Item 8 balance sheet,10-K FY2026
+Remaining performance obligations,7365.4,,Note (revenue),10-K FY2026
+Accumulated deficit,1252.7,,Item 8 balance sheet,10-K FY2026
+Revenue United States,1791.807,1359.325,Note (geography),10-K FY2026
+Revenue EMEA,923.395,792.823,Note (geography),10-K FY2026
+Revenue Asia Pacific,519.189,423.811,Note (geography),10-K FY2026
+Revenue Other,118.132,97.156,Note (geography),10-K FY2026

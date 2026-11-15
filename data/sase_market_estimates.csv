@@ -1,0 +1,12 @@
+id,publisher,tier,base_year,base_usd_b,forecast_year,forecast_usd_b,cagr_pct,cagr_period,basis,source_url
+DO,Dell'Oro Group,analyst,2025,12.0,2030,24.0,14.9,2025-2030,"Manufacturer revenue. 2025 base derived: Dell'Oro projects $24B by 2030 as a two-fold increase on 2025. Quarterly actuals 1Q25 $2.6B (+17%), 2Q25 $2.7B (+22%), 3Q25 ~$3.0B (+21%).",https://www.sdxcentral.com/news/sase-market-set-to-double-by-2030-hitting-24b-report/
+GA,Gartner,analyst,2025,15.0,2026,18.0,23.0,2025-2030,"End-user (buyer) spending. $15B in 2025 per Gartner session abstract; >$18B in 2026 and 23% CAGR 2025-2030 as reported secondhand from Gartner's May 2026 forecast.",https://www.gartner.com/en/conferences/na/product-leadership-us/sessions/detail/4252189-As-SASE-Providers-Target-New-Growth-Your-Security-Market-Might-Be-Next
+MM,MarketsandMarkets,syndicated,2025,15.52,2030,44.68,23.6,2025-2030,"Offering: SD-WAN + SSE",https://www.isemag.com/industry-trends-and-research/research-and-forecasts/news/55288108/sase-market-expected-to-reach-usd-4468-billion-by-2030
+MO,Mordor Intelligence,syndicated,2025,12.94,2030,32.60,20.29,2025-2030,"Global SASE",https://m.giikorea.co.kr/report/moi1683522-secure-access-service-edge-sase-market-share.html
+ME,Meticulous Research,syndicated,2025,10.70,2036,76.60,19.7,2026-2036,"NaaS + SSE",https://www.meticulousresearch.com/product/secure-access-service-edge-market-6488
+TS,TechSci Research,syndicated,2025,8.83,2031,30.74,23.11,2026-2031,"Global SASE",https://www.techsciresearch.com/report/secure-access-service-edge-market/7904.html
+FB,Fortune Business Insights,syndicated,2025,4.94,2034,44.11,27.54,2025-2034,"Global SASE",https://www.fortunebusinessinsights.com/secure-access-service-edge-market-107057
+CO,Coherent Market Insights,syndicated,2025,2.72,2032,8.82,18.3,2025-2032,"Platform + services",https://www.coherentmi.com/industry-reports/secure-access-service-edge-market
+RM,360iResearch via ResearchAndMarkets,syndicated,2025,4.57,2030,10.73,18.47,2025-2030,"Offering/connectivity/org size",https://www.researchandmarkets.com/reports/6136133/sase-market-global-forecast
+KR,Kings Research,syndicated,2025,23.21,2032,127.97,27.36,2025-2032,"Broad definition",https://www.kingsresearch.com/secure-access-service-edge-market-2565
+MI,Market Intelo,syndicated,2025,12.1,2034,82.7,21.4,2026-2034,"Global SASE",https://marketintelo.com/report/sase-market/amp

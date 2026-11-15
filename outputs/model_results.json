@@ -1,0 +1,206 @@
+{
+  "triangulation": {
+    "base_2025": 13.969999999999999,
+    "anchor_low": 12.0,
+    "anchor_high": 15.52,
+    "all_median": 12.0,
+    "all_low": 2.72,
+    "all_high": 23.21,
+    "spread_ratio": 8.533088235294118,
+    "cagr_conservative": 0.1486983549970351,
+    "cagr_base": 0.214,
+    "cagr_aggressive": 0.23600000000000002
+  },
+  "scenarios": {
+    "year": [
+      2025,
+      2026,
+      2027,
+      2028,
+      2029,
+      2030
+    ],
+    "conservative": [
+      13.97,
+      16.047,
+      18.434,
+      21.175,
+      24.323,
+      27.94
+    ],
+    "base": [
+      13.97,
+      16.96,
+      20.589,
+      24.995,
+      30.344,
+      36.837
+    ],
+    "aggressive": [
+      13.97,
+      17.267,
+      21.342,
+      26.379,
+      32.604,
+      40.298
+    ]
+  },
+  "srilanka": {
+    "sam_mode": 54492207.0,
+    "som_mode": 2724610.35,
+    "seats_mode": 648716.75,
+    "sam_p10": 53032505.79760836,
+    "sam_p50": 84609706.11719576,
+    "sam_p90": 134217025.84584649,
+    "som_p10": 2462341.450993668,
+    "som_p50": 4619120.097425402,
+    "som_p90": 8316028.593326499
+  },
+  "tornado": [
+    {
+      "parameter": "som_share_y5",
+      "som_low": 1089844.0,
+      "som_high": 5449221.0,
+      "swing": 4359377.0
+    },
+    {
+      "parameter": "small_avg_users",
+      "som_low": 1985256.0,
+      "som_high": 5189126.0,
+      "swing": 3203871.0
+    },
+    {
+      "parameter": "price_user_year",
+      "som_low": 1946150.0,
+      "som_high": 4865376.0,
+      "swing": 2919225.0
+    },
+    {
+      "parameter": "need_share",
+      "som_low": 1634766.0,
+      "som_high": 4359377.0,
+      "swing": 2724610.0
+    },
+    {
+      "parameter": "medium_avg_users",
+      "som_low": 2255917.0,
+      "som_high": 4046566.0,
+      "swing": 1790648.0
+    },
+    {
+      "parameter": "firm_growth_factor",
+      "som_low": 2476918.0,
+      "som_high": 3096148.0,
+      "swing": 619230.0
+    }
+  ],
+  "zscaler": {
+    "revenue_m": 3352.523,
+    "revenue_growth": 0.2541634011256533,
+    "gross_margin": 0.7680466323422687,
+    "gross_margin_prev": 0.7687424596397836,
+    "sm_pct": 0.4461750150558251,
+    "sm_pct_prev": 0.47104520381652115,
+    "rd_pct": 0.26946869566592085,
+    "rd_pct_prev": 0.2515791501675012,
+    "ga_pct": 0.0921544758977045,
+    "ga_pct_prev": 0.09418001096099494,
+    "op_margin": -0.03975125599436603,
+    "op_margin_prev": -0.04805629387437503,
+    "net_margin": -0.018851473949619436,
+    "sbc_pct": 0.24769166386032251,
+    "sbc_m": 830.392,
+    "ocf_margin": 0.3369563758399271,
+    "fcf_m": 779.143,
+    "fcf_margin": 0.23240496784063822,
+    "fcf_margin_prev": 0.27185250166940067,
+    "fcf_minus_sbc_m": -51.249000000000024,
+    "fcf_minus_sbc_prev_m": 43.125,
+    "rule_of_40": 48.65683689662915,
+    "capex_m": 277.304,
+    "capex_growth": 0.6882838565131624,
+    "liquidity_m": 3474.151,
+    "liquidity_prev_m": 3572.409,
+    "net_cash_m": 1749.1509999999998,
+    "debt_principal_m": 1725.0,
+    "liabilities_to_assets": 0.6697145720563885,
+    "deferred_m": 2925.773,
+    "deferred_growth": 0.18547089860479593,
+    "rpo_m": 7365.4,
+    "rpo_to_revenue": 2.1969722504513762,
+    "goodwill_m": 1218.098,
+    "goodwill_growth": 1.9159935843726807,
+    "goodwill_to_assets": 0.1548420344250471,
+    "acquisitions_m": 918.074,
+    "interest_income_m": 136.132,
+    "interest_vs_oploss": 1.0214981953521878,
+    "intl_share": 0.46553476292332674,
+    "apac_share": 0.1548651567789393,
+    "apac_growth": 0.22504842960659355,
+    "us_growth": 0.31815938057491766,
+    "emea_growth": 0.1646924975688142,
+    "arr_m": 3771.0,
+    "nrr": 1.15,
+    "fy27_rev_mid_m": 3923.0,
+    "fy27_rev_growth_mid": 0.1701634858284342,
+    "fy27_arr_mid_m": 4411.0,
+    "fy27_arr_growth_mid": 0.16971625563510995,
+    "arr_per_customer_k": 342.8181818181818,
+    "revenue_per_employee_k": 385.34747126436787,
+    "channel_share": 0.85,
+    "top5_channel_share": 0.31,
+    "tsr_5y": 64.09
+  },
+  "scorecard": [
+    {
+      "vendor": "Cloudflare",
+      "Affordability": 3.88,
+      "Small-firm fit": 5.0,
+      "User satisfaction": 4.429,
+      "Market validation": 3.5,
+      "Price transparency": 5.0,
+      "Momentum": 4.12,
+      "weighted": 4.293
+    },
+    {
+      "vendor": "Netskope",
+      "Affordability": 4.013,
+      "Small-firm fit": 3.0,
+      "User satisfaction": 3.286,
+      "Market validation": 5.0,
+      "Price transparency": 1.0,
+      "Momentum": 3.48,
+      "weighted": 3.458
+    },
+    {
+      "vendor": "Cato Networks",
+      "Affordability": 3.08,
+      "Small-firm fit": 2.0,
+      "User satisfaction": 3.857,
+      "Market validation": 5.0,
+      "Price transparency": 1.0,
+      "Momentum": 4.36,
+      "weighted": 3.227
+    },
+    {
+      "vendor": "Zscaler",
+      "Affordability": 2.0,
+      "Small-firm fit": 2.5,
+      "User satisfaction": 3.286,
+      "Market validation": 5.0,
+      "Price transparency": 1.0,
+      "Momentum": 3.0,
+      "weighted": 2.807
+    },
+    {
+      "vendor": "Palo Alto Networks",
+      "Affordability": 2.12,
+      "Small-firm fit": 1.5,
+      "User satisfaction": 2.714,
+      "Market validation": 5.0,
+      "Price transparency": 1.0,
+      "Momentum": 5.0,
+      "weighted": 2.723
+    }
+  ]
+}

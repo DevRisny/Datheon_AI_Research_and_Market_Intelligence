@@ -1,0 +1,20 @@
+kpi,value,unit,period,source
+ARR,3771,USD m,Q4 FY2026,Zscaler Q4 FY2026 results (8-K Ex 99.1)
+ARR growth,25,%,Q4 FY2026,Zscaler Q4 FY2026 results (8-K Ex 99.1)
+ARR excluding Red Canary,3630,USD m,Q4 FY2026,Zscaler Q4 FY2026 results (8-K Ex 99.1)
+Red Canary ARR,141,USD m,Q4 FY2026,Zscaler Q4 FY2026 results (8-K Ex 99.1)
+Net new ARR (Q4),246,USD m,Q4 FY2026,Zscaler Q4 FY2026 results (8-K Ex 99.1)
+Net revenue retention,115,%,FY2026,Q4 FY2026 earnings call
+Customers,11000,count,31 Jul 2026,10-K FY2026 Item 1
+Customers over $1M ARR,785,count,Q4 FY2026,Q4 FY2026 earnings call
+Customers over $100K ARR,4182,count,Q4 FY2026,Q4 FY2026 earnings call
+Employees,8700,count,31 Jul 2026,10-K FY2026 Item 1
+Channel share of revenue,85,%,FY2026,10-K FY2026 notes
+Top five channel partners share of revenue,31,%,FY2026,10-K FY2026 Item 1A
+Daily transactions,750,billion,FY2026,10-K FY2026 Item 1
+Data centers,200,count,FY2026,10-K FY2026 Item 1
+FY2027 revenue guidance low,3908,USD m,FY2027,Q4 FY2026 results
+FY2027 revenue guidance high,3938,USD m,FY2027,Q4 FY2026 results
+FY2027 ARR guidance low,4396,USD m,FY2027,Q4 FY2026 results
+FY2027 ARR guidance high,4426,USD m,FY2027,Q4 FY2026 results
+Five-year TSR ($100 invested 31 Jul 2021),64.09,USD,31 Jul 2026,10-K FY2026 Item 5

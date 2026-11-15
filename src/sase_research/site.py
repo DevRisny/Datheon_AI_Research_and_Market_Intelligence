@@ -1,0 +1,111 @@
+"""GitHub Pages landing page (docs/index.html), generated from the model results."""
+
+from __future__ import annotations
+
+import json
+
+from . import OUT, ROOT
+
+PAGE = """<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Edge Shift · SASE market research by Risny Suha</title>
+<meta name="description" content="Market sizing, 10-K synthesis, competitor teardown and strategy for the SASE market and Sri Lankan SMEs.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lora:wght@500;600&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#1d2430;--navy:#0f2a44;--blue:#2a78d6;--muted:#5b6676;--line:#e1e6ee;--bg:#fcfcfb}
+*{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,sans-serif;color:var(--ink);background:var(--bg);line-height:1.6}
+a{color:var(--blue);text-decoration:none}a:hover{text-decoration:underline}
+.wrap{max-width:1080px;margin:0 auto;padding:0 24px}
+header{background:linear-gradient(135deg,#eef5fd 0%,#fbfcfe 55%,#ecf7f1 100%);border-bottom:1px solid var(--line);padding:72px 0 56px}
+.k{font-size:12px;letter-spacing:2px;text-transform:uppercase;color:var(--blue);font-weight:700}
+h1{font-family:Lora,serif;font-size:clamp(40px,6vw,64px);color:var(--navy);margin:10px 0 6px;line-height:1.05}
+.sub{font-family:Lora,serif;font-size:22px;color:#33506e;margin:0 0 18px}
+.lead{max-width:720px;font-size:17px;color:#33404f}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px;margin:30px 0 8px}
+.tile{background:#fff;border:1px solid var(--line);border-radius:12px;padding:16px 18px}
+.tile b{display:block;font-family:Lora,serif;font-size:32px;color:var(--navy);line-height:1.1}
+.tile span{font-size:13px;color:var(--muted)}
+.by{font-size:14px;color:var(--muted);margin-top:18px}
+section{padding:52px 0;border-bottom:1px solid var(--line)}
+h2{font-family:Lora,serif;color:var(--navy);font-size:30px;margin:0 0 8px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px;margin-top:22px}
+.card{background:#fff;border:1px solid var(--line);border-radius:12px;padding:20px;display:flex;flex-direction:column}
+.card .n{font-size:12px;font-weight:700;color:var(--blue);letter-spacing:1.5px;text-transform:uppercase}
+.card h3{font-family:Lora,serif;font-size:20px;color:var(--navy);margin:6px 0 8px}
+.card p{font-size:14.5px;color:#3d4756;margin:0 0 14px;flex:1}
+.btn{display:inline-block;font-size:13.5px;font-weight:600;padding:8px 12px;border-radius:8px;background:#eef4fc;margin:0 6px 6px 0}
+.fig{display:grid;grid-template-columns:1fr 1fr;gap:22px;margin-top:22px}
+.fig figure{margin:0}.fig img{width:100%;border:1px solid var(--line);border-radius:10px;background:#fff}
+.fig figcaption{font-size:13px;color:var(--muted);margin-top:4px}
+ol li{margin-bottom:8px}
+code{background:#eef2f7;padding:2px 6px;border-radius:5px;font-size:13.5px}
+footer{padding:32px 0 48px;font-size:13px;color:var(--muted)}
+@media(max-width:720px){.fig{grid-template-columns:1fr}}
+</style></head><body>
+<header><div class="wrap">
+<div class="k">Datheon · AI Research &amp; Market Intelligence · DT-2026-P5IEX</div>
+<h1>Edge Shift</h1><p class="sub">The SASE market and the Sri Lankan SME opportunity</p>
+<p class="lead">Cloud-delivered security is replacing the office VPN and firewall. This project sizes that market from eleven
+published estimates, reads the market leader's annual report, tears down five competing platforms, and builds a bottom-up case
+for serving the buyers the leaders overlook.</p>
+<div class="tiles">
+<div class="tile"><b>${base:.1f}B</b><span>Global SASE market, 2025 (triangulated)</span></div>
+<div class="tile"><b>${b2030:.1f}B</b><span>Base case by 2030 ({cagr:.1%} CAGR)</span></div>
+<div class="tile"><b>${sam:.0f}M</b><span>Sri Lankan SME market per year (P50)</span></div>
+<div class="tile"><b>${som:.1f}M</b><span>Year-5 ARR for one focused provider (P50)</span></div></div>
+<div class="by">By <b>Risny Suha</b> · November 2026 · <a href="https://github.com/DevRisny/Datheon_AI_Research_and_Market_Intelligence">Source code &amp; data on GitHub</a></div>
+</div></header>
+
+<section><div class="wrap"><h2>Four tasks, one market</h2><p>Every number comes from code and CSV files in the repository, each with a link to its source.</p>
+<div class="grid">
+<div class="card"><div class="n">Task 1</div><h3>Market landscape memo</h3><p>Eleven estimates with an {spread:.1f}x spread, triangulated to ${base:.1f}B; three growth scenarios; a 20,000-draw Monte Carlo TAM / SAM / SOM.</p>
+<div><a class="btn" href="files/Task1_SASE_Market_Landscape_Memo.pdf">Memo (PDF)</a><a class="btn" href="files/Task1_SASE_Market_Model.xlsx">Model (Excel)</a></div></div>
+<div class="card"><div class="n">Task 2</div><h3>Zscaler 10-K briefing</h3><p>Revenue +{zg:.1%} and a {fcf:.1%} free-cash-flow margin, but stock pay exceeds free cash flow and growth is guided to {g27:.0%}.</p>
+<div><a class="btn" href="files/Task2_Zscaler_10K_Executive_Briefing.pdf">Briefing (PDF)</a></div></div>
+<div class="card"><div class="n">Task 3</div><h3>Competitive teardown</h3><p>Zscaler, Palo Alto, Netskope, Cloudflare and Cato on price, sentiment and vulnerability, plus a weighted SME-fit scorecard and SWOT.</p>
+<div><a class="btn" href="files/Task3_Competitive_Teardown.pdf">Teardown (PDF)</a><a class="btn" href="files/Task3_Competitor_Matrix.xlsx">Matrix (Excel)</a></div></div>
+<div class="card"><div class="n">Task 4</div><h3>Capstone report &amp; deck</h3><p>A 16-page report with three recommendations, a 90-day plan, KPIs and risks, timed to Sri Lanka's data-protection law on 1 Jan 2027.</p>
+<div><a class="btn" href="files/Task4_Capstone_Report_Edge_Shift.pdf">Report (PDF)</a><a class="btn" href="files/Task4_Executive_Deck_Edge_Shift.pdf">Deck (PDF)</a></div></div>
+</div></div></section>
+
+<section><div class="wrap"><h2>Key findings</h2><ol>
+<li><b>No agreed size.</b> 2025 estimates range from ${lo:.1f}B to ${hi:.1f}B; the four most transparent sources give a median of ${base:.1f}B.</li>
+<li><b>Real growth.</b> Vendor revenue grew 17%-22% year over year through 2025 while branch-router spending fell 25%.</li>
+<li><b>Price separates the platforms, not satisfaction.</b> G2 ratings span 4.3-4.6; prices span $0-$300 per user per year.</li>
+<li><b>The leader is sound but slowing.</b> Zscaler guides FY2027 revenue growth to about {g27:.0%}.</li>
+<li><b>An overlooked beachhead.</b> Sri Lankan small and medium firms: about ${sam:.0f}M a year, with privacy-law duties starting 1 January 2027.</li></ol>
+<div class="fig">
+<figure><img src="assets/t1_estimate_dispersion.png" alt="Bar chart of eleven 2025 SASE market estimates"><figcaption>Eleven estimates, one triangulated base.</figcaption></figure>
+<figure><img src="assets/t1_scenarios.png" alt="Line chart of three SASE growth scenarios to 2030"><figcaption>Three growth scenarios to 2030.</figcaption></figure>
+<figure><img src="assets/t3_price_vs_rating.png" alt="Scatter of vendor price against G2 rating"><figcaption>Satisfaction is bunched; price is not.</figcaption></figure>
+<figure><img src="assets/t1_monte_carlo.png" alt="Histogram of Monte Carlo SAM results"><figcaption>Sri Lankan SME SAM across 20,000 draws.</figcaption></figure>
+</div></div></section>
+
+<section><div class="wrap"><h2>Reproduce it</h2>
+<p><code>pip install -r requirements.txt</code> · <code>python -m playwright install chromium</code> ·
+<code>PYTHONPATH=src python -m sase_research.build</code> · <code>pytest</code></p></div></section>
+<footer><div class="wrap">© 2026 Risny Suha · Research for the Datheon AI Research &amp; Market Intelligence internship. Third-party figures belong to their publishers; see
+<a href="https://github.com/DevRisny/Datheon_AI_Research_and_Market_Intelligence/blob/main/data/sources.md">sources</a>.</div></footer>
+</body></html>"""
+
+
+def write() -> str:
+    res = json.loads((OUT / "model_results.json").read_text())
+    t, s, z = res["triangulation"], res["srilanka"], res["zscaler"]
+    html = PAGE
+    vals = {
+        "base": t["base_2025"], "b2030": res["scenarios"]["base"][-1], "cagr": t["cagr_base"], "sam": s["sam_p50"] / 1e6,
+        "som": s["som_p50"] / 1e6, "spread": t["spread_ratio"], "zg": z["revenue_growth"], "fcf": z["fcf_margin"],
+        "g27": z["fy27_rev_growth_mid"], "lo": t["all_low"], "hi": t["all_high"],
+    }
+    import re
+
+    def sub(mo: re.Match) -> str:
+        key, fmt = mo.group(1), mo.group(2)
+        return format(vals[key], fmt)
+
+    html = re.sub(r"\{(" + "|".join(vals) + r"):([^}]+)\}", sub, html)
+    path = ROOT / "docs" / "index.html"
+    path.write_text(html, encoding="utf-8")
+    return str(path)

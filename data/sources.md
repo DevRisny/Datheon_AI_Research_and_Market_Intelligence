@@ -1,0 +1,68 @@
+# Sources
+
+Accessed 1-15 November 2026. Every figure in the reports cites one of these.
+
+- **delloro_2030** — Dell'Oro Group via SDxCentral, 'SASE market set to double by 2030, hitting $24B'. <https://www.sdxcentral.com/news/sase-market-set-to-double-by-2030-hitting-24b-report/>
+- **delloro_1q25** — Dell'Oro Group, 'Single-vendor SASE platforms propel revenue to $2.6B in 1Q 2025' (Jun 2025). <https://www.delloro.com/news/single-vendor-sase-platforms-propel-revenue-to-2-6-b-in-1q-2025-up-17-percent-year-over-year/>
+- **delloro_2q25** — Dell'Oro Group, 'AI-ready SASE branch architectures push 2Q 2025 revenue up 22% to $2.7B' (Sep 2025). <https://www.delloro.com/news/ai-ready-sase-branch-architectures-push-2q-2025-revenue-up-22-percent-to-2-7-b/>
+- **delloro_3q25** — Dell'Oro Group via Converge Digest, 'SASE surges as access router revenue falls 25% in 3Q2025' (Dec 2025). <https://convergedigest.com/delloro-sase-surges-as-access-router-revenue-falls-25-in-3q2025/>
+- **gartner_15b** — Gartner, session abstract: SASE buyer spending to reach $15B in 2025. <https://www.gartner.com/en/conferences/na/product-leadership-us/sessions/detail/4252189-As-SASE-Providers-Target-New-Growth-Your-Security-Market-Might-Be-Next>
+- **gartner_forecast** — Gartner, 'Forecast Analysis: Secure Access Service Edge, Worldwide, 2025-2030' (15 May 2026), abstract. <https://www.gartner.com/en/documents/7865781>
+- **gartner_mq** — Gartner, 'Magic Quadrant for SASE Platforms' (28 Jul 2026), abstract. <https://gartner.com/en/documents/8183329>
+- **gartner_dual** — Gartner, 'SASE vendors need to address clients' single versus dual platform dilemma' (9 Sep 2026), abstract. <https://www.gartner.com/en/documents/8364349>
+- **netskope_mq** — Netskope press release citing Gartner SASE forecast and 2026 MQ (Aug 2026). <https://www.netskope.com/jp/press-releases/netskope-named-a-leader-in-the-gartner-magic-quadrant-for-secure-access-service-edge-platforms-for-3rd-year-in-a-row>
+- **mm** — MarketsandMarkets, SASE market to reach $44.68B by 2030. <https://www.isemag.com/industry-trends-and-research/research-and-forecasts/news/55288108/sase-market-expected-to-reach-usd-4468-billion-by-2030>
+- **mordor** — Mordor Intelligence, SASE market share analysis 2025-2030. <https://m.giikorea.co.kr/report/moi1683522-secure-access-service-edge-sase-market-share.html>
+- **meticulous** — Meticulous Research, SASE market forecast to 2036 (Feb 2026). <https://www.meticulousresearch.com/product/secure-access-service-edge-market-6488>
+- **techsci** — TechSci Research, SASE market 2026-2031. <https://www.techsciresearch.com/report/secure-access-service-edge-market/7904.html>
+- **fbi** — Fortune Business Insights, SASE market to 2034. <https://www.fortunebusinessinsights.com/secure-access-service-edge-market-107057>
+- **coherent_global** — Coherent Market Insights, SASE market 2025-2032. <https://www.coherentmi.com/industry-reports/secure-access-service-edge-market>
+- **coherent_india** — Coherent Market Insights, India SASE market 2025-2032. <https://www.coherentmarketinsights.com/industry-reports/india-secure-access-service-edge-sase-market>
+- **rm** — 360iResearch via ResearchAndMarkets, SASE market global forecast. <https://www.researchandmarkets.com/reports/6136133/sase-market-global-forecast>
+- **kings** — Kings Research, SASE market 2025-2032. <https://www.kingsresearch.com/secure-access-service-edge-market-2565>
+- **intelo** — Market Intelo, SASE market 2025-2034. <https://marketintelo.com/report/sase-market/amp>
+- **zs_10k** — Zscaler, Inc., Form 10-K for fiscal year ended 31 Jul 2026 (filed 3 Sep 2026), SEC EDGAR. <https://www.sec.gov/Archives/edgar/data/0001713683/000171368326000157/zs-20260731.htm>
+- **zs_pr** — Zscaler, Q4 and fiscal 2026 results, Form 8-K Ex. 99.1 (3 Sep 2026). <https://www.sec.gov/Archives/edgar/data/0001713683/000171368326000156/zs-07312026_991.htm>
+- **zs_call** — Zscaler Q4 FY2026 earnings call highlights, MarketBeat (3 Sep 2026). <https://www.marketbeat.com/instant-alerts/transcript-zscaler-q4-earnings-call-highlights-2026-09-03/>
+- **zs_call2** — Zscaler Q4 FY2026 earnings call coverage, Tiger Brokers (Sep 2026). <https://www.itiger.com/news/1179635443>
+- **zs_mq** — Zscaler, Leader in 2026 Gartner MQs for SASE Platforms and SSE (4 Aug 2026). <https://www.generation-nt.com/communiques-presse/zscaler-recognized-as-leader-in-both-the-2026-gartner-magic-2079422>
+- **panw_pr** — Palo Alto Networks, fiscal Q4 and FY2026 results (1 Sep 2026). <https://www.paloaltonetworks.com/company/press/2026/palo-alto-networks-reports-fiscal-fourth-quarter-and-fiscal-year-2026-financial-results>
+- **panw_call** — Nasdaq/Zacks, 'PANW Q4 earnings call focuses on AI-led platformization' (Sep 2026). <https://www.nasdaq.com/articles/panw-q4-earnings-call-focuses-ai-led-platformization>
+- **panw_mq** — Palo Alto Networks, 2026 Gartner MQ for SASE Platforms page. <https://www.paloaltonetworks.com/sase/gartner-sase-mq-leader-2026>
+- **ntsk_pr** — Netskope, Q4 and fiscal 2026 results (11 Mar 2026). <https://investors.netskope.com/news-releases/news-release-details/netskope-announces-strong-fourth-quarter-and-fiscal-year-2026>
+- **ntsk_cc** — Netskope blog, Gartner SASE Critical Capabilities 2026 (6 Aug 2026). <https://www.netskope.com/blog/netskope-among-3-highest-ranked-vendors-in-all-use-cases-in-gartner-sase-critical-capabilities>
+- **net_q3** — Cloudflare, Q3 2026 results, Form 8-K Ex. 99.1 (5 Nov 2026). <https://www.sec.gov/Archives/edgar/data/0001477333/000147733326000060/q326exhibit991.htm>
+- **net_q3b** — PPC Land, 'Cloudflare revenue gains 39% to $782.5M' (Nov 2026). <https://ppc.land/cloudflare-revenue-gains-39-to-782-5m-fastest-growth-in-nearly-four-years/>
+- **net_mq** — Cloudflare blog, only vendor named Visionary in 2026 SASE and SSE reports. <https://blog.cloudflare.com/cloudflare-sase-sse-gartner-magic-quadrants-2026/>
+- **net_price** — Cloudflare, SASE & Zero Trust plans page. <https://www.cloudflare.com/plans/sase-zero-trust.md>
+- **net_colombo** — Cloudflare blog, 'Colombo, Sri Lanka' data centre launch (May 2017). <https://blog.cloudflare.com/colombo/>
+- **net_400** — Gartner 2025 MQ for SASE Platforms summary (Cloudflare ~400 SASE customers), Softprom. <https://softprom.com/cloudflare-cisco-and-fortinet-recognized-in-the-2025-gartner-magic-quadrant-for-sase-platforms>
+- **cato_arr** — Calcalist, 'Cato Networks tops $415 million in ARR' (2026). <https://calcalistech.com/ctechnews/article/b1bqq6nrfg>
+- **cato_350** — Cato Networks, 'Surpasses $350 million ARR with 43% YoY growth in 2025' (24 Feb 2026). <https://www.catonetworks.com/news/cato-surpasses-350-million-arr-with-43-yoy-growth-in-2025/>
+- **cato_mq** — Cato Networks, Leader in 2026 Gartner MQ for SASE Platforms (31 Jul 2026). <https://www.catonetworks.com/?p=164793>
+- **g2_cato_zia** — G2, Cato SASE Cloud vs Zscaler Internet Access. <https://www.g2.com/compare/cato-networks-cato-sase-cloud-vs-zscaler-internet-access%3Fset-locale%3Des>
+- **g2_cato_prisma** — G2, Cato SASE Cloud vs Prisma Access. <https://www.g2.com/compare/cato-networks-cato-sase-cloud-vs-prisma-access>
+- **g2_ntsk** — G2, Netskope One Platform vs Zscaler Internet Access. <https://www.g2.com/compare/netskope-vs-zscaler-internet-access>
+- **g2_cf** — G2, Cloudflare One (SASE) reviews. <https://g2.com/products/cloudflare-sse-sase-platform/reviews?page=3>
+- **gpi_cf** — Gartner Peer Insights, Cloudflare One and alternatives. <https://www.gartner.com/reviews/product/cloudflare-one>
+- **gpi_cato** — Gartner Peer Insights, Cloudflare One with Magic WAN alternatives (Cato 4.7). <https://www.gartner.com/reviews/product/cloudflare-one-with-cloudflare-magic-wan>
+- **price_zs** — Ciphers Security, 'Zscaler pricing guide 2026'. <https://cipherssecurity.com/zscaler-pricing-guide-2026-zia-zpa-zdx-cost/>
+- **price_zs_smb** — UnderDefense, 'Zscaler pricing 2026'. <https://underdefense.com/industry-pricings/zscaler-pricing-2026-ultimate-guide-for-security-products/>
+- **price_sse** — dope.security, 'How much does an SSE cost per user in 2026?' (Vendr data). <https://dope.security/post/sse-cost-per-user-2026>
+- **price_prisma** — Ciphers Security, 'Zscaler alternatives 2026' (Prisma Access benchmark). <https://cipherssecurity.com/zscaler-alternatives-2026-sase-sse/>
+- **price_cato** — CostBench, Cato Networks pricing. <https://www.costbench.com/software/sd-wan/cato-networks/>
+- **lk_pdpa** — Daily FT, 'Data protection compliance regime takes effect on 1 Jan 2027' (10 Aug 2026). <https://www.ft.lk/front-page/Data-protection-compliance-regime-takes-effect-on-1-Jan-2027/44-795776>
+- **lk_enf** — The Morning, 'PDPA enforcement to begin within a year from Jan 2027' (24 May 2026). <https://www.themorning.lk/articles/XtVIvMptofpV7PQKjTkc>
+- **lk_penalty** — FlexyConsent, Sri Lanka PDPA compliance guide (penalty ceiling). <https://flexyconsent.com/blog/sri-lanka-pdpa-cookie-consent-compliance-guide/>
+- **in_dpdp** — TaxGuru, DPDP Rules 2025 phased implementation. <https://taxguru.in/?p=1064181>
+- **in_dpdp2** — Conventus Law, DPDP Rules timeline. <https://conventuslaw.com/?p=131129>
+- **lk_sme** — Ministry of Industry, National SME Strategy Framework (May 2026). <https://www.industry.gov.lk/web/wp-content/uploads/2026/05/National-SME-Strategy-Framework-2026-MAY-5.pdf>
+- **lk_msme** — The Morning, 'Developing MSMEs in the present context of Sri Lanka' (Jun 2025). <https://www.themorning.lk/articles/mzG2fW0S2z3pMqurApAT>
+- **lk_census** — The Island, MSME counts from the 2013/14 Economic Census. <https://island.lk/unlocking-the-potential-of-msmes-vital-for-post-covid-19-recovery/>
+- **lk_digital** — DataReportal, 'Digital 2026: Sri Lanka'. <https://datareportal.com/reports/digital-2026-sri-lanka>
+- **lk_pen** — Daily FT, 'Can Sri Lanka's 5G revolution reach the 80% left behind?'. <https://www.ft.lk/opinion/Can-Sri-Lanka-s-5G-revolution-reach-the-80-left-behind/14-790074>
+- **lk_cert** — The Morning, 'Sri Lanka CERT receives over 12,600 cyber complaints in 2025' (1 Jan 2026). <https://www.themorning.lk/articles/6kmicT9lggufaTSEBNZC>
+- **lk_cert24** — The Morning, Sri Lanka CERT 2024 and 2025 complaint totals. <https://www.themorning.lk/articles/68uiM74fLvQEbbz5Puwl>
+- **sme_fast** — TechSci Research: SMEs the fastest-growing SASE segment. <https://www.techsciresearch.com/report/secure-access-service-edge-market/7904.html>
+
+Per-row source URLs are also stored in each CSV in this folder.
